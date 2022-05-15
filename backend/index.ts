@@ -1,6 +1,6 @@
-import * as express from 'express'
-import 'express-async-errors';
+import * as express from "express";
 import * as cors from 'cors';
+import 'express-async-errors';
 import {giftRouter} from "./routers/gift";
 import {childRouter} from "./routers/child";
 import {handleError} from "./utils/errors";

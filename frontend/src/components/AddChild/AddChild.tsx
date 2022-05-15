@@ -1,4 +1,3 @@
-
 import React, {FormEvent, useState} from 'react';
 import {ChildEntity, CreateChildReq, GiftEntity} from 'types';
 import {Spinner} from "../common/Spinner/Spinner";
